@@ -1,5 +1,5 @@
 # Microsoft R for Data Science
-Training resources around Azure Machine Learning
+Training resources around Microsoft R for Data Science Course
 
 ## How to Use this Site
 
