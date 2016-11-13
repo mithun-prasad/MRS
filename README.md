@@ -35,7 +35,7 @@ We recommend cloning this repository onto your local computer with a git-based p
 
 We will use DSVMs (Data Science Virtual Machines) from the Azure marketplace to run the course materials. I'll send you your credentials along with JupyterHub and RStudio Server URLs via Email.
 
-Instructions on how to create an Azure Linux Data Science Virtual Machine is at 
+Instructions on how to create an Azure Linux Data Science Virtual Machine for multiple users is at 
 http://togaware.com/running-an-r-workshop-on-azure-linux-data-science-virtual-machine/
 
 ## Structure of this Repository Site
