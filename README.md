@@ -7,7 +7,7 @@ Training resources around Microsoft R for Data Science Course
 
 We recommend cloning this repository onto your local computer with a git-based program (like GitHub desktop for Windows) or you may download the site contents as a zip file by going to "Clone or Download" at the upper right of this repository.
 
-## Microsoft's Azure Machine Learning Components Covered
+## Course Outline
 
 *R Fundamentals*
 
