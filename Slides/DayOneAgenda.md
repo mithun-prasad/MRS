@@ -26,7 +26,7 @@
 * Learning to code in R (including Labs)
     - Data Types and Data Structures
     - Error Handling
-    - How you can use `dplyr` to manipulate `xdf` files
+    - How you can use `dplyr` to manipulate data
 
 # Microsoft R Data Stack
 
