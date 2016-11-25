@@ -6,6 +6,19 @@
 + The Core Principles of R
 + Functional Programming in R
 + Deep-dive into the `dplyr` package for data manipulation
+
+##  Morning Session
+
+### Learning Objectives
+
+* R and Microsoft R Server Overview Presentation:
+    - Learn about R, its advantages and disadvantages
+    - Learn how MRS breaks the memory barrier of R
+    - Know what are the core components of MRS
+    - Understand how PEMA works
+
+
+
 # Microsoft R Data Stack
 
 ## Microsoft R Family
