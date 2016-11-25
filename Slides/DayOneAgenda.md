@@ -17,7 +17,12 @@
     - Know what are the core components of MRS
     - Understand how PEMA works
 
+## Afternoon Session
 
+### Learning Objectives
+
+* Code in R, error handling, etc.
+* How you can use `dplyr` to manipulate data
 
 # Microsoft R Data Stack
 
