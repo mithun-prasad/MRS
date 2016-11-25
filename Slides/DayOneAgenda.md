@@ -17,12 +17,16 @@
     - Know what are the core components of MRS
     - Understand how PEMA works
 
+# Lunch!!
+
 ## Afternoon Session
 
 ### Learning Objectives
 
-* Code in R, error handling, etc.
-* How you can use `dplyr` to manipulate data
+* Learning to code in R (including Labs)
+    - Data Types and Data Structures
+    - Error Handling
+    - How you can use `dplyr` to manipulate `xdf` files
 
 # Microsoft R Data Stack
 
