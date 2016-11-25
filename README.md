@@ -11,15 +11,11 @@ We recommend cloning this repository onto your local computer with a git-based p
 
 *R Fundamentals*
 
-*Data Manipulation with dplyr*
-
-*Data Manipulation with dplyrXdf*
+*Data Manipulation with dplyr/dplyrXdf*
 
 *Modeling and Scoring with Microsoft R*
 
-*Parallel Computing with the RevoScaleR package*
-
-*Deploying Models with the AzureML package*
+*Intro to SQL Services + R*
 
 **For Instructor-Led:**
 * We recommend dowloading the site contents or cloning it if you can do so to your local computer.
