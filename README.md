@@ -38,5 +38,5 @@ http://togaware.com/running-an-r-workshop-on-azure-linux-data-science-virtual-ma
 
 ## Structure of this Repository Site
 *  Labs - hands-on exercises
-*  Decks - classroom slides
-*  Code - scripts
+*  Slides - classroom slides
+*  Data - dataset
