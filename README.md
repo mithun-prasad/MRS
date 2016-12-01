@@ -1,7 +1,7 @@
 # Microsoft R for Data Science
 Training resources around Microsoft R for Data Science Course
 
-[Feedback Survey, please fill out after class](https://www.surveymonkey.com/r/Q3B9MN8)
+[Feedback Survey, please fill out after class](https://www.surveymonkey.com/r/NY5ZKKF)
 
 ## How to Use this Site
 
